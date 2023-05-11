@@ -1,0 +1,23 @@
+I need to break down my assignment, and how I will tackle it
+
+I do need figma, but it may not end up looking like the way i need it. 
+Now and going forward into tomorrow, and next week all focus is on my react, react here and react there
+
+udemy course with React project
+get into the typescript and how that will look
+there is a react native that I can also add to my list
+
+I have 4 days to study, React. 
+now I have to understand typescript, 
+my focus has shifted and now I have to prepare for the Eval. 
+
+today is wednesday 05/10/23 i have 4 days by 14th sunday 05/14/23
+make a simple project based on time constrains and just go with it, i might need extra help when i add the cards but for now, i need this. 
+
+//color for the background
+//photobackground?
+i need to be able to scroll down? all in the same page?
+//should I be able to have a navbar? 
+start there. 
+
+//set up my component, what do i want the navbar to have

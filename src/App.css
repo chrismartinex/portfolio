@@ -1,38 +1,98 @@
-.App {
-  text-align: center;
-}
+/* fonts imported 
+font-family: 'Righteous', cursive; */
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+body{
+  font-family: 'Righteous', cursive;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #1938;
   min-height: 100vh;
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* font-size: calc(10px + 2vmin); */
+  /* color: #EEE82C; */
+}
+/*nav bar styles below */
+.nav-link.my-class {
+  font-family: 'Righteous', cursive;
+  font-size: 19px;
+  font-weight: bold;
+}
+.logo-size {
+  max-width: 150px;
+  max-height: 75px;
+  width: auto;
+  height: auto;
+}
+
+
+/*Main component below */
+
+.MainStyle {
+  padding: 90px;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+.MainFont {
+  font-family: 'Righteous', cursive;
+  font-size: 66px;
+  font-weight: bolder;
+}
+.MainFont1 {
+  color: #19381F;
+  font-family: 'Righteous', cursive;
+
+}
+.lowerMain {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.lowerMainRow {
+  padding-top: -10px;
+  font-family: 'Righteous', cursive;
+
+}
+.finalCol {
+display: flex;
+align-items: center;
+justify-content: center;
+color: wheat;
+}
+/*Icons Middle below */
+
+button {
+  background-color: transparent;
+  border: 2px solid black;
+  border-radius: 5px;
+  color: black;
+  font-size: 16px;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+button:hover {
+  background-color: black;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.centerIcons {
+display: flex;
+align-items: center;
+justify-content: center;
+padding-top: 50px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.spaceApart {
+  justify-content: space-between;
 }
+
+
+
+/* colors #19381F */
